@@ -41,22 +41,39 @@ The obtained dataset has been randomly partitioned into two sets, where 70% of t
 
 Measure	Meaning 
 body_acc_x_test	The body acceleration signal obtained by subtracting the gravity from the total acceleration from the test data sample
+
 body_acc_y_test	The body acceleration signal obtained by subtracting the gravity from the total acceleration from the test data sample
+
 body_acc_z_test	The body acceleration signal obtained by subtracting the gravity from the total acceleration from the test data sample
+
 body_gyro_x_test	The angular velocity vector measured by the gyroscope for each window sample. The units are radians/second from the test data sample
+
 body_gyro_y_test	The angular velocity vector measured by the gyroscope for each window sample. The units are radians/second from the tes data sample
+
 body_gyro_z_test	The angular velocity vector measured by the gyroscope for each window sample. The units are radians/second from the test data sample
+
 total_acc_x_test	The acceleration signal from the smartphone accelerometer X axis in standard gravity units 'g' from the test data sample
+
  total_acc_y_test	The acceleration signal from the smartphone accelerometer X axis in standard gravity units 'g' from the test data sample
+
 total_acc_z_test	The acceleration signal from the smartphone accelerometer X axis in standard gravity units 'g' from the test data sample
+
 body_acc_x_train	The body acceleration signal obtained by subtracting the gravity from the total acceleration from the training data sample
+
 body_acc_y_train	The body acceleration signal obtained by subtracting the gravity from the total acceleration from the training data sample
+
 body_acc_z_train	The body acceleration signal obtained by subtracting the gravity from the total acceleration from the training data sample
+
 body_gyro_x_train	The angular velocity vector measured by the gyroscope for each window sample. The units are radians/second from the training data sample
+
 body_gyro_y_train	The angular velocity vector measured by the gyroscope for each window sample. The units are radians/second from the training data sample
+
 body_gyro_z_train	The angular velocity vector measured by the gyroscope for each window sample. The units are radians/second from the training data sample
+
 total_acc_x_train	The acceleration signal from the smartphone accelerometer X axis in standard gravity units 'g' from the training data sample
+
 total_acc_y_train	The acceleration signal from the smartphone accelerometer X axis in standard gravity units 'g' from the training data sample
+
 total_acc_z_train	The acceleration signal from the smartphone accelerometer X axis in standard gravity units 'g' from the training data sample
 
 
